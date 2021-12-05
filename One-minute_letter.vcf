@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Crypto news in 1 minute
+N;CHARSET=UTF-8:Crypto news in 1 minute;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;21 West 46th Street;New York;NY;10036;USA
+EMAIL:drop@cointelegraph.com
+ORG;CHARSET=UTF-8:Cointelegraph
+URL:http://cointelegraph.com
+END:VCARD
